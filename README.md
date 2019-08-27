@@ -37,5 +37,5 @@ SHELL=/usr/local/bin/bash
 
 ## GeoIP source data
 GeoIP source data is fetched from ipdeny.com.
-ipdeny copywrite: http://www.ipdeny.com/ipblocks/data/countries/Copyrights.txt
-ipdeny usage limits: http://www.ipdeny.com/usagelimits.php
+- ipdeny copywrite: http://www.ipdeny.com/ipblocks/data/countries/Copyrights.txt
+- ipdeny usage limits: http://www.ipdeny.com/usagelimits.php
